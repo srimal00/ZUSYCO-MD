@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94773835328",
+  SUDO_NUMBERS : "94773835328,94751815422",
+  OWNER_NAME: "Srimal",
+  BOT_NAME : "SD",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
+  CAPTION : 'SD',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
@@ -44,7 +44,7 @@ module.exports = {
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
-        BLOCK : false,
+        BLOCK : true,
         NOT_WORKING : false,
   },
   READ : {
@@ -52,7 +52,7 @@ module.exports = {
      ONLY_COMMANDS : false,
      STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
